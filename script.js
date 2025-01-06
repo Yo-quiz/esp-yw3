@@ -240,7 +240,7 @@ const yoKaiList = [
   { "name": "Urbasierpe", "img": "Urbasierpe.png" },
   { "name": "Pregundragon", "img": "Pregundragon.png" },
   { "name": "Zazel Justiciero", "img": "Zazel_Justiciero.png" },
-  { "name": "Intelecto Iluminado (Amigo)", "img": "Intelecto_Iluminado_Amigo.png" },
+  { "name": "Intelecto Iluminado (Amigo)", "img": "Intelecto_Iluminado_A.png" },
   { "name": "Enma Ancestral", "img": "Enma_Ancestral.png" },
   { "name": "Gran Enma Iluminado", "img": "Gran_Enma_Iluminado.png" },
   { "name": "Rollaculo", "img": "Rollaculo.png" },
