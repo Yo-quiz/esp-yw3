@@ -1,4 +1,3 @@
-// Lista completa de Yo-kai con sus nombres e imágenes
 const yoKaiList = [
   { "name": "Robin Ful", "img": "Robin_Ful.png" },
   { "name": "Tornalmohado", "img": "Tornalmohado.png" },
@@ -40,7 +39,7 @@ const yoKaiList = [
   { "name": "Blancacone", "img": "Blancacone.png" },
   { "name": "Prudencio", "img": "Prudencio.png" },
   { "name": "Explotacota", "img": "Explotacota.png" },
-  { "name": "Grafilcebú", "img": "Grafilcebu.png" }
+  { "name": "Grafilcebú", "img": "Grafilcebu.png" },
   { "name": "Chocovaca", "img": "Chocovaca.png" },
   { "name": "Vacaloca", "img": "Vacaloca.png" },
   { "name": "Fracalavero", "img": "Fracalavero.png" },
@@ -148,7 +147,7 @@ const yoKaiList = [
   { "name": "Condespotico", "img": "Condespotico.png" },
   { "name": "Flequipilante", "img": "Flequipilante.png" },
   { "name": "Origenio", "img": "Origenio.png" },
-  { "name": "Horrogenio", "img": "Horrogenio.png" }
+  { "name": "Horrogenio", "img": "Horrogenio.png" },
   { "name": "Fulgurilla", "img": "Fulgurilla.png" },
   { "name": "Saltetera", "img": "Saltetera.png" },
   { "name": "Don Despacito", "img": "Don_Despacito.png" },
@@ -228,7 +227,7 @@ const yoKaiList = [
   { "name": "Coco Masiel", "img": "Coco_Masiel.png" },
   { "name": "Whisper Kongming", "img": "Whisper_Kongming.png" },
   { "name": "Jurojin", "img": "Jurojin.png" },
-  { "name": "Fukurokuju", "img": "Fukurokuju.png" }
+  { "name": "Fukurokuju", "img": "Fukurokuju.png" },
   { "name": "Maldenotep", "img": "Maldenotep.png" },
   { "name": "Rey Palmiro", "img": "Rey_Palmiro.png" },
   { "name": "Pandora", "img": "Pandora.png" },
@@ -299,7 +298,7 @@ const yoKaiList = [
   { "name": "Cachaslote", "img": "Cachaslote.png" },
   { "name": "El Carnicero", "img": "El_Carnicero.png" },
   { "name": "Topoderoso", "img": "Topoderoso.png" },
-  { "name": "El Ultimisimo Nyanmurai", "img": "El_Ultimisimo_Nyanmurai.png" }
+  { "name": "El Ultimisimo Nyanmurai", "img": "El_Ultimisimo_Nyanmurai.png" },
 ]
 
 let score = 0; 
