@@ -54,7 +54,7 @@ const yoKaiList = [
   { "name": "Radiopatio", "img": "Radiopatio.png" },
   { "name": "Filete II", "img": "Filete_II.png" },
   { "name": "Showbonyan", "img": "Showbonyan.png" },
-  { "name": "Tiburon Tiburcio", "img": "Tiburon_Tiburcio" },
+  { "name": "Tiburon Tiburcio", "img": "Tiburon_Tiburcio.png" },
   { "name": "Tiburon Jaqueton", "img": "Tiburon_Jaqueton.png" },
   { "name": "Capitan Nublo", "img": "Capitan_Nublo.png" },
   { "name": "Sincopollo", "img": "Sincopollo.png" },
